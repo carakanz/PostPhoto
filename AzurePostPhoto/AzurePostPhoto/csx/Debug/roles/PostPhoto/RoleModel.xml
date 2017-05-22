@@ -52,14 +52,14 @@
     <Property name="SetConfiguration" value="Configuration=Debug" />
     <Property name="SetPlatform" value="Platform=AnyCPU" />
     <Property name="RoleTargetFramework" value="v4.5.1" />
-    <Property name="OutputDir" value="c:\users\carak\documents\visual studio 2017\Projects\AzurePostPhoto\AzurePostPhoto\obj\Debug\PostPhoto\" />
+    <Property name="OutputDir" value="C:\Users\carak\OneDrive\Documents\PostPhoto\AzurePostPhoto\AzurePostPhoto\obj\Debug\PostPhoto\" />
     <Property name="EntryPoint" value="PostPhoto.dll" />
-    <Property name="SourceDir" value="c:\users\carak\documents\visual studio 2017\Projects\AzurePostPhoto\PostPhoto\" />
-    <Property name="SitePhysicalPath" value="c:\users\carak\documents\visual studio 2017\Projects\AzurePostPhoto\PostPhoto\" />
+    <Property name="SourceDir" value="C:\Users\carak\OneDrive\Documents\PostPhoto\AzurePostPhoto\PostPhoto\" />
+    <Property name="SitePhysicalPath" value="C:\Users\carak\OneDrive\Documents\PostPhoto\AzurePostPhoto\PostPhoto\" />
     <Property name="TargetRuntimeVersion" value="v4.0" />
   </Properties>
   <Sites>
-    <Site name="Web" physicalDirectory="c:\users\carak\documents\visual studio 2017\Projects\AzurePostPhoto\PostPhoto\">
+    <Site name="Web" physicalDirectory="C:\Users\carak\OneDrive\Documents\PostPhoto\AzurePostPhoto\PostPhoto\">
       <Bindings>
         <Binding name="Endpoint1" endpointName="Endpoint1" />
       </Bindings>

@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<serviceModel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" name="AzurePostPhoto" generation="1" functional="0" release="0" Id="d2e63942-0cc4-40d8-8a55-3d65942058b7" dslVersion="1.2.0.0" xmlns="http://schemas.microsoft.com/dsltools/RDSM">
+<serviceModel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" name="AzurePostPhoto" generation="1" functional="0" release="0" Id="9e5a6952-8f05-49a3-90aa-bfb434004660" dslVersion="1.2.0.0" xmlns="http://schemas.microsoft.com/dsltools/RDSM">
   <groups>
     <group name="AzurePostPhotoGroup" generation="1" functional="0" release="0">
       <componentports>
@@ -137,7 +137,7 @@
       </maps>
       <components>
         <groupHascomponents>
-          <role name="PostPhoto" generation="1" functional="0" release="0" software="c:\users\carak\documents\visual studio 2017\Projects\AzurePostPhoto\AzurePostPhoto\csx\Debug\roles\PostPhoto" entryPoint="base\x64\WaHostBootstrapper.exe" parameters="base\x64\WaIISHost.exe " memIndex="-1" hostingEnvironment="frontendadmin" hostingEnvironmentVersion="2">
+          <role name="PostPhoto" generation="1" functional="0" release="0" software="C:\Users\carak\OneDrive\Documents\PostPhoto\AzurePostPhoto\AzurePostPhoto\csx\Debug\roles\PostPhoto" entryPoint="base\x64\WaHostBootstrapper.exe" parameters="base\x64\WaIISHost.exe " memIndex="-1" hostingEnvironment="frontendadmin" hostingEnvironmentVersion="2">
             <componentports>
               <inPort name="Endpoint1" protocol="http" portRanges="80" />
               <inPort name="Microsoft.WindowsAzure.Plugins.RemoteForwarder.RdpInput" protocol="tcp" />
@@ -189,14 +189,14 @@
     </group>
   </groups>
   <implements>
-    <implementation Id="7dc5e3bb-22fb-46ef-a24f-c4eac23ce5e1" ref="Microsoft.RedDog.Contract\ServiceContract\AzurePostPhotoContract@ServiceDefinition">
+    <implementation Id="773e1eb6-0965-4839-9a08-d889d974f778" ref="Microsoft.RedDog.Contract\ServiceContract\AzurePostPhotoContract@ServiceDefinition">
       <interfacereferences>
-        <interfaceReference Id="3735fe6c-5fe2-4e6c-aa60-644e849a2e8d" ref="Microsoft.RedDog.Contract\Interface\PostPhoto:Endpoint1@ServiceDefinition">
+        <interfaceReference Id="2bb22e7d-527e-4837-acf6-cb94a9b3f572" ref="Microsoft.RedDog.Contract\Interface\PostPhoto:Endpoint1@ServiceDefinition">
           <inPort>
             <inPortMoniker name="/AzurePostPhoto/AzurePostPhotoGroup/PostPhoto:Endpoint1" />
           </inPort>
         </interfaceReference>
-        <interfaceReference Id="af831def-1ff5-478c-ab80-a9521f33668d" ref="Microsoft.RedDog.Contract\Interface\PostPhoto:Microsoft.WindowsAzure.Plugins.RemoteForwarder.RdpInput@ServiceDefinition">
+        <interfaceReference Id="cbd66222-a57a-4c4c-95cf-a1c80f012eb7" ref="Microsoft.RedDog.Contract\Interface\PostPhoto:Microsoft.WindowsAzure.Plugins.RemoteForwarder.RdpInput@ServiceDefinition">
           <inPort>
             <inPortMoniker name="/AzurePostPhoto/AzurePostPhotoGroup/PostPhoto:Microsoft.WindowsAzure.Plugins.RemoteForwarder.RdpInput" />
           </inPort>

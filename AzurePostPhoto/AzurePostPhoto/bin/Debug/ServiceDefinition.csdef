@@ -32,10 +32,10 @@
     </Imports>
     <Contents>
       <Content destination=".\">
-        <SourceDirectory path="c:\users\carak\documents\visual studio 2017\Projects\AzurePostPhoto\AzurePostPhoto\rcf\Debug\PostPhotoContent\" />
+        <SourceDirectory path="C:\Users\carak\OneDrive\Documents\PostPhoto\AzurePostPhoto\AzurePostPhoto\rcf\Debug\PostPhotoContent\" />
       </Content>
       <Content destination=".\">
-        <SourceDirectory path="c:\users\carak\documents\visual studio 2017\Projects\AzurePostPhoto\AzurePostPhoto\ecf\PostPhotoContent\" />
+        <SourceDirectory path="C:\Users\carak\OneDrive\Documents\PostPhoto\AzurePostPhoto\AzurePostPhoto\ecf\PostPhotoContent\" />
       </Content>
     </Contents>
   </WebRole>

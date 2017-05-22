@@ -30,7 +30,7 @@ namespace PostPhoto
         public static CloudBlobContainer Container;
         public static CloudTableClient CloudTable;
         public static CloudTable Table;
-        private const string connectionString = "DefaultEndpointsProtocol=https;AccountName=carakanphoto;AccountKey=uIeJUiutoiZT0qCOk+QAaYsFzpVw96Tb1Y3Ig6BWtcanTM/DmgazjAMpXh7QmHLU4XrJHSuHMa2L8oTIaxADKQ==;EndpointSuffix=core.windows.net";
+        private const string connectionString = "DefaultEndpointsProtocol=https;AccountName=carakan1;AccountKey=1PQxNJNJy1CeX5uwwWL+U2Izz4dpT+qOasdX8ge6wgrB1lL502Te6JSaQjeQrTJftTLYtzEcwvR25CxoaTpOXw==;EndpointSuffix=core.windows.net";
         public static void connectToStorage() // Соединение с хранилищем фотографий
         {
             Trace.TraceInformation("Connect to storage");

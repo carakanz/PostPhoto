@@ -1,17 +1,17 @@
-DiagnosticsPluginLauncher.exe Information: 0 : [22.05.2017 5:34:01] Emulator config file set to c:\users\carak\documents\visual studio 2017\Projects\AzurePostPhoto\AzurePostPhoto\csx\Debug\roles\PostPhoto\approot\diagnostics.wadcfgx
-DiagnosticsPluginLauncher.exe Information: 0 : [22.05.2017 5:34:01] DiagnosticsStoreRootPath set to: C:\Users\carak\AppData\Local\dftmp\Resources\3fe5d724-2610-4517-9190-ad5f4ce6243d
-DiagnosticsPluginLauncher.exe Information: 0 : [22.05.2017 5:34:01] Loading config file: c:\users\carak\documents\visual studio 2017\Projects\AzurePostPhoto\AzurePostPhoto\csx\Debug\roles\PostPhoto\approot\diagnostics.wadcfgx
-DiagnosticsPluginLauncher.exe Information: 0 : [22.05.2017 5:34:01] Config file to read: c:\users\carak\documents\visual studio 2017\Projects\AzurePostPhoto\AzurePostPhoto\csx\Debug\roles\PostPhoto\approot\diagnostics.wadcfgx
-DiagnosticsPluginLauncher.exe Information: 0 : [22.05.2017 5:34:01] Checking VM Type
-DiagnosticsPluginLauncher.exe Information: 0 : [22.05.2017 5:34:01] Emulator config file set to c:\users\carak\documents\visual studio 2017\Projects\AzurePostPhoto\AzurePostPhoto\csx\Debug\roles\PostPhoto\approot\diagnostics.wadcfgx
-DiagnosticsPluginLauncher.exe Information: 0 : [22.05.2017 5:34:01] Extension set to Emulator Mode
-DiagnosticsPluginLauncher.exe Information: 0 : [22.05.2017 5:34:01] Reading XML configuration file
-DiagnosticsPluginLauncher.exe Information: 0 : [22.05.2017 5:34:01] Bypassing private config decryption
-DiagnosticsPluginLauncher.exe Information: 0 : [22.05.2017 5:34:01] Stopping the running plugin, if any
-DiagnosticsPluginLauncher.exe Information: 0 : [22.05.2017 5:34:02] No DiagnosticsPlugin is running.
-DiagnosticsPluginLauncher.exe Information: 0 : [22.05.2017 5:34:02] Killing any DiagnosticsPlugin that might remain.
-DiagnosticsPluginLauncher.exe Information: 0 : [22.05.2017 5:34:03] Killing any MonAgentHost that might remain.
-DiagnosticsPluginLauncher.exe Information: 0 : [22.05.2017 5:34:03] Diagnostics plugin stopped successfully
-DiagnosticsPluginLauncher.exe Information: 0 : [22.05.2017 5:34:03] Resetting DiagnosticPlugin
-DiagnosticsPluginLauncher.exe Information: 0 : [22.05.2017 5:35:14] DiagnosticsPlugin launched successfully with new configuration
-DiagnosticsPluginLauncher.exe Information: 0 : [22.05.2017 5:35:14] DiagnosticPlugin exited with code 0
+DiagnosticsPluginLauncher.exe Information: 0 : [22.05.2017 6:24:52] Emulator config file set to C:\Users\carak\OneDrive\Documents\PostPhoto\AzurePostPhoto\AzurePostPhoto\csx\Debug\roles\PostPhoto\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [22.05.2017 6:24:52] DiagnosticsStoreRootPath set to: C:\Users\carak\AppData\Local\dftmp\Resources\9c02d0a1-e7c0-4d1b-a1bb-f61625fa6dc5
+DiagnosticsPluginLauncher.exe Information: 0 : [22.05.2017 6:24:52] Loading config file: C:\Users\carak\OneDrive\Documents\PostPhoto\AzurePostPhoto\AzurePostPhoto\csx\Debug\roles\PostPhoto\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [22.05.2017 6:24:52] Config file to read: C:\Users\carak\OneDrive\Documents\PostPhoto\AzurePostPhoto\AzurePostPhoto\csx\Debug\roles\PostPhoto\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [22.05.2017 6:24:52] Checking VM Type
+DiagnosticsPluginLauncher.exe Information: 0 : [22.05.2017 6:24:52] Emulator config file set to C:\Users\carak\OneDrive\Documents\PostPhoto\AzurePostPhoto\AzurePostPhoto\csx\Debug\roles\PostPhoto\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [22.05.2017 6:24:52] Extension set to Emulator Mode
+DiagnosticsPluginLauncher.exe Information: 0 : [22.05.2017 6:24:52] Reading XML configuration file
+DiagnosticsPluginLauncher.exe Information: 0 : [22.05.2017 6:24:52] Bypassing private config decryption
+DiagnosticsPluginLauncher.exe Information: 0 : [22.05.2017 6:24:52] Stopping the running plugin, if any
+DiagnosticsPluginLauncher.exe Information: 0 : [22.05.2017 6:24:55] No DiagnosticsPlugin is running.
+DiagnosticsPluginLauncher.exe Information: 0 : [22.05.2017 6:24:55] Killing any DiagnosticsPlugin that might remain.
+DiagnosticsPluginLauncher.exe Information: 0 : [22.05.2017 6:24:56] Killing any MonAgentHost that might remain.
+DiagnosticsPluginLauncher.exe Information: 0 : [22.05.2017 6:24:57] Diagnostics plugin stopped successfully
+DiagnosticsPluginLauncher.exe Information: 0 : [22.05.2017 6:24:57] Resetting DiagnosticPlugin
+DiagnosticsPluginLauncher.exe Information: 0 : [22.05.2017 6:26:10] DiagnosticsPlugin launched successfully with new configuration
+DiagnosticsPluginLauncher.exe Information: 0 : [22.05.2017 6:26:10] DiagnosticPlugin exited with code 0
